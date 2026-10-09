@@ -1,0 +1,7 @@
+{
+  "name": "bilibili-summary-mcp-runtime",
+  "private": true,
+  "dependencies": {
+    "bailian-cli": "1.27.0"
+  }
+}
